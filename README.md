@@ -21,6 +21,16 @@ A Java Swing GUI application developed using NetBeans IDE, demonstrating event-d
 
 ---
 
+## 🚀 How to Run in NetBeans
+
+1. Clone or download this repository.
+2. Open **NetBeans IDE**.
+3. Go to **File ➔ Open Project...**
+4. Select the project folder and click **Open Project**.
+5. Press **F6** (or right-click the project and select **Run**).
+
+---
+
 ## 📂 Project Structure
 
 ```text
@@ -33,12 +43,3 @@ A Java Swing GUI application developed using NetBeans IDE, demonstrating event-d
 │       ├── FrameOne.java             # Sender window for inter-frame data transfer
 │       └── FrameTwo.java             # Receiver window displaying incoming data
 └── README.md                 # Project documentation
-
----
-
-🚀 How to Run in NetBeans
-1.Clone or download this repository.
-2.Open NetBeans IDE.
-3.Go to File ➔ Open Project...
-4.Select the project folder and click Open Project.
-5.Press F6 (or right-click the project and select Run).
